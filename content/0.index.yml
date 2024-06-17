@@ -1,0 +1,56 @@
+title: Best AI - (ง •̀_•́)ง‼
+description: One of the best AI Navigation in the world!(๑¯ω¯๑)
+keywords: Best AI Navigation Collection
+navigation: false
+hero:
+  title: Best AI Navigation in World!!
+  description: |
+    ☀️Welcome to Best AI, your go-to source for cutting-edge artificial intelligence technology and applications.☀️
+    🌟Discover the latest AI news, tutorials, and tools to help you understand and harness the power of AI.🌟
+    🌕Whether you're a beginner or a professional, Best AI is your ultimate resource.🌕
+
+PreferredTools:
+  title: 🚀Preferred Tools🚀
+  description: 🌟Discover our handpicked selection of preferred tools designed to enhance your productivity and efficiency🌟
+  items:
+    - title: Easy to use
+      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+      icon: i-heroicons-cog
+    - title: Reliable
+      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      icon: i-heroicons-check
+    - title: Secure
+      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+      icon: i-heroicons-lock-closed
+    - title: Fast
+      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+      icon: i-heroicons-currency-dollar
+    - title: Scalable
+      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+      icon: i-heroicons-chart-bar
+
+NewArrivals:
+  title: 🌍New Arrivals🌍
+  description: 🌟Check out our latest arrivals!🌟
+  items:
+    - title: Easy to use
+      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+      icon: i-heroicons-cog
+    - title: Reliable
+      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      icon: i-heroicons-check
+    - title: Secure
+      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+      icon: i-heroicons-lock-closed
+    - title: Fast
+      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+      icon: i-heroicons-currency-dollar
+    - title: Scalable
+      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+      icon: i-heroicons-chart-bar
