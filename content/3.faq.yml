@@ -1,0 +1,22 @@
+title: Frequently asked questions
+description: Choose the plan that's right for you.
+navigation.icon: i-heroicons-credit-card
+
+faq:
+  title: 📝Frequently asked questions📝
+  align: center
+  description: Find answers to the most frequently asked questions about our services and products.
+  items:
+    - label: Is this a secure service?
+      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+      defaultOpen: true
+    - label: How can I cancel my subscription?
+      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
+    - label: How does the free trial work?
+      content: Quis officia commodo magna eu qui aliquip duis.
+    - label: Can I switch plans later?
+      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
+    - label: Do you offer refunds?
+      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
+    - label: Do you offer support?
+      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
